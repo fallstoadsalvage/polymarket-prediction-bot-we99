@@ -1,4 +1,4 @@
-# 
+# vip Polymarket Module | scalping-strategies + API-integration is the best Polymarket module, featuring scalping-strategies and API-integration. Smart, fast, and optimized for
 
 
 
